@@ -467,9 +467,9 @@ MonoBehaviour:
   as03CorrectPassword: 
   as04Score: 0
   as05Year: 0
-  as06Num1: 0
-  as06Op: 0
-  as06Num2: 0
+  as06Num1: 5
+  as06Op: 43
+  as06Num2: 3
   as07Month: 0
   as08Quantity: 0
   as08Price: 0
